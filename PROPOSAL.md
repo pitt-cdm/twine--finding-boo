@@ -1,37 +1,12 @@
-<!-- INSTRUCTIONS:
-Guiding questions are in comments; add your answers outside the comments, where they can be seen. -->
+Finding Ben
+
+Christy, Russel, Tyller, and Jess are in a group, creating a story called Finding Ben. Essentially, the user, a monster in the Monster's Inc universe realizes that all of the doors used to contact the human world have been disintegrated by Randall's cousin Scandall, using a powerful solvent, DoorBeGone. The user starts in the Monster's Inc factory/workplace, and it's an adventure/race against the clock to find Ben before it's too late: will he remember the monster world by the time we find him? will we we be able to find the right door?
 
 
+We are planning to divide the work by sections: essentially, having two main paths/choices that the user makes at the beginning that then branches out, and two team members work on each path. Also, we will meet with at least one other team member a few times, so in this way, we will work by compromise and consensus. 
 
-<!-- Who is working on this project? -->
+General roles this week:
+Christy - main narrative, outline/first few blocks of the story, to set the stage
+Russel and Jess - one section/main path, will work on it throughout the week, esp Thursday for Jess
+Christy/Tyller - the other section/main path, will work on it near the end of the week, esp Friday
 
-
-
-
-
-
-
-
-<!-- What's the basic pitch for the Twine narrative? Where do you start? Who do you play as? What's the genre? -->
-
-
-
-
-
-
-
-<!-- What overall mode of collaboration are you planning to use: divide the work by project sections? by media types and expertise? by compromise and consensus all the way through?
-
-Now add some specificity to that general plan: who will take what role, at what points? How will you communicate with each other?
-
-IMPORTANT: never include personal info like phone numbers on GitHub! -->
-
-
-
-
-
-
-
-
-
-<!-- Feel free to add any further thoughts, plans, or possibilities... or to answer additional questions from the Group Contract on page 116 of Writer/Designer. -->
